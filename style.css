@@ -1,0 +1,32 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+background-color: #424648;
+color: #FFFFFF;
+font-family: "Courier New", Courier, monospace;
+font-size: 16px;
+}
+h1 {
+    color: #B7E8F4;
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    color: #B7E8F4;
+    text-align: center;
+    text-decoration: underline;
+}
+.img {
+    text-align: center;
+}
+.bio {
+    text-align: center;
+    border-style: groove;
+border-color: #B7E8F4;
+}
+
+a {
+    color: #B7E8F4
+}
