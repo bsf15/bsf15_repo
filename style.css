@@ -16,17 +16,16 @@ h1 {
 h2 {
     color: #B7E8F4;
     text-align: center;
-    text-decoration: underline;
 }
 .img {
     text-align: center;
 }
-.bio {
-    text-align: center;
+.text {
+    text-align: left;
+    padding-left: 15px;
     border-style: groove;
 border-color: #B7E8F4;
 }
-
 a {
     color: #B7E8F4
 }
